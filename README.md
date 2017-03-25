@@ -14,4 +14,4 @@ Como na época não existia composer (ou se existia eu não sabia kkkkkk), é s�
 1. Acesse o index via browser passando os parâmetros `page` e `action`, onde `page` é o nome do controller e `action` é o método. Ex: `localhost/framework-bau/index.php?page=user&action=index`
 
 ## Curtiu?
-Eu também não, mas na época me ajudou bastante e é algo que eu indico para todos os que estão e não estão começando na área realizarem esse tipo de projeto pois o retorno é bastante positivo!
+Eu também não, mas na época me ajudou bastante e é algo que eu indico para todos os que estão começando na área e para os que já trabalham realizarem esse tipo de projeto pois o retorno é bastante positivo!
