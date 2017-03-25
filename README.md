@@ -1,5 +1,5 @@
 # Framework Baú
-> Framework retirado diretamento do baú do tempo, mais especificamente do ano 2013 que foi o ano onde as [cabras se revelaram ótimas cantoras](http://www.naosalvo.com.br/os-melhores-memes-de-2013/)!
+> Framework retirado diretamento do baú do tempo, mais especificamente do ano 2013 que foi o ano onde as [cabras se revelaram ótimas cantoras](http://www.naosalvo.com.br/os-melhores-memes-de-2013/) e eu achava que a vida era fácil!
 
 Na época, o foco principal era colocar em prática meus estudos de conceitos como: OO, Design Patterns, PSRs, SOLID etc. Hoje, serve para reflexões e para comparar com meus códigos desenvolvidos atualmente onde eu consigo ver na prática minha evolução.
 
